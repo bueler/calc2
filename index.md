@@ -1,7 +1,13 @@
 ---
 layout: course-page
-title: Bueler's Math F252 Calculus II at UAF
+title: Bueler's FORMER Math F252 Calculus II at UAF
 ---
+
+# THIS PAGE IS NO LONGER IN USE
+
+Please use the [Calculus II at UAF](https://uaf-math251.github.io/calc2/) page.  It is hosted at [this Github site](https://github.com/uaf-math251/calc2).
+
+# OLD MATERIAL FOLLOWS
 
 Welcome to the homepage of **Math F252 Calculus II** (section 001), Fall 2022, in the [Dept. of Mathematics and Statistics](http://www.uaf.edu/dms/) at the [University of Alaska Fairbanks](http://www.uaf.edu/).
 
